@@ -1,0 +1,79 @@
+
+#header-nav {
+  border-radius: 0;
+  border: 0;
+  min-height: 60px;
+background-color: #ffa64d;
+}
+
+.navbar-brand {
+  padding-top: 20px;
+}
+.navbar-brand h1 { /* company name*/
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  color: #330000;
+}
+.container{
+	margin-left: 0px;
+	padding-left: 
+}
+
+#nav-list {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#nav-list a {
+  background-color: #ffcc99;
+  color: black;
+  border: 1px solid #FABC89;
+  border-top: .5px;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+#collapsable-nav{
+	background-color: transparent;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #330000;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+/* END HEADER */
+
+h2{
+	margin: 90px 0 0 0;
+
+}
+
+.menu-item{
+	margin: 60px 0 15px 0;
+	background-color: #CC6666;
+	padding: 0;
+}
+
+h3.menu-title{
+	width: 100%;
+	text-align: center;
+	padding: 10px 10px 10px 10px;
+	background-color: #660000;
+	color: #CCCCCC;
+	margin-top: 0;
+}
+
+p.menu-details{
+	padding: 10px 35px 30px 35px;
+	color: #330000;
+	margin-bottom: 0;
+}
